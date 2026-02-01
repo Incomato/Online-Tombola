@@ -1,0 +1,5 @@
+{
+  "name": "Online Tombola",
+  "description": "A fully functional online raffle (Tombola) web application. Users can manage their accounts, buy tickets for various prizes, and participate in prize drawings. This is a feature-complete demonstration.",
+  "requestFramePermissions": []
+}
